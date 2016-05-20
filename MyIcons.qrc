@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/background.png</file>
+        <file>icons/blue.png</file>
+        <file>icons/circle.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/fileclose.png</file>
+        <file>icons/filenew.png</file>
+        <file>icons/fileopen.png</file>
+        <file>icons/filesave.png</file>
+        <file>icons/green.png</file>
+        <file>icons/ok.png</file>
+        <file>icons/rectangle.png</file>
+        <file>icons/red.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/remove.png</file>
+        <file>icons/triangle.png</file>
+        <file>icons/undo.png</file>
+        <file>icons/扒渣能介.png</file>
+        <file>icons/报警信息.png</file>
+        <file>icons/标准成分.png</file>
+        <file>icons/模型参数.png</file>
+        <file>icons/铁水成分.png</file>
+        <file>icons/脱硫实绩.png</file>
+        <file>icons/信息管理.png</file>
+        <file>icons/预处理实绩.png</file>
+        <file>icons/运转状况.png</file>
+        <file>icons/top.jpg</file>
+        <file>icons/出钢计划.png</file>
+        <file>icons/top2.gif</file>
+        <file>icons/倒罐信息.PNG</file>
+    </qresource>
+</RCC>
